@@ -13,4 +13,4 @@ for ($i = 0; $i < 1000; $i++) {
     }
 }
 
-echo "Solution ".$sum;
+echo "Solution ".$sum.PHP_EOL;
