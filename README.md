@@ -6,4 +6,5 @@
 2. [Even Fibonacci numbers](challenge002.php)
 3. Pending
 4. [Largest palindrome product](challenge004.php)
-4. [Smallest multiple](challenge005.php)
+5. [Smallest multiple](challenge005.php)
+6. [Sum square difference](challenge006.php)
